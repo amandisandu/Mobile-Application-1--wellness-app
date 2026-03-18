@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Wellness Buddy</string>
+    <string name="daily_habit_title">Daily Habit</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="nav_habits_title">Habits</string>
+    <string name="nav_mood_title">Mood</string>
+    <string name="nav_settings_title">Settings</string>
+
+    <string name="onboarding_title_1">Build Healthy Habits, Every Day</string>
+    <string name="onboarding_desc_1">Your daily companion for building healthy habits and tracking your mood.</string>
+    <string name="onboarding_title_2">Build Healthy Habits</string>
+    <string name="onboarding_desc_2">Add, complete, and track habits like drinking water, meditation, or walking. Stay consistent every day.</string>
+    <string name="onboarding_title_3">See Your Progress at a Glance</string>
+    <string name="onboarding_desc_3">Track your weekly mood trends, habit completion, and hydration stats with simple charts and widgets.</string>
+    <string name="onboarding_button_next">Next</string>
+    <string name="onboarding_button_start">Start</string>
+
+    <string name="test_button_text">Click Me</string>
+    <string name="name_input_hint">Name</string>
+    <string name="add_button_text">Add</string>
+    <string name="save_button_text">Save</string>
+    <string name="delete_button_description">Delete button</string>
+    <string name="back_button_description">Back button</string>
+    <string name="add_new_habit_description">Add New Habit</string>
+    <string name="get_analytics_description">Get Analytics</string>
+    <string name="previous_month_description">Previous month</string>
+    <string name="next_month_description">Next month</string>
+    <string name="add_mood_description">Add mood</string>
+
+    <string name="today_summary_text_default">Today\'s completion: 0%</string>
+    <string name="habit_item_time_default">00:00 AM</string>
+    <string name="habit_item_name_default">Name</string>
+
+    <string name="widget_title">Today Habit Precentage</string>
+    <string name="widget_percentage_default">100%</string>
+
+    <string name="select_emoji_title">Select emoji</string>
+    <string name="note_input_hint">Note (optional)</string>
+    <string name="emoji_happy">😄</string>
+    <string name="emoji_smile">🙂</string>
+    <string name="emoji_neutral">😐</string>
+    <string name="emoji_sad">😔</string>
+    <string name="emoji_angry">😡</string>
+
+    <string name="countdown_default_text">Count Down</string>
+    <string name="hydration_reminder_title">Hydration Reminder</string>
+    <string name="save_reminder_button">Save Reminder</string>
+    <string name="notification_channel_name">Hydration Reminder</string>
+    <string name="notification_title">Stay Hydrated  💧 </string>
+    <string name="notification_text">Time to drink some water!</string>
+
+</resources>
